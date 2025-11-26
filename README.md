@@ -1,7 +1,7 @@
 🌟 Zero-Shot Text Classification Using Hugging Face Transformers
 📌 NLP Assignment — Project 2
 
-Submitted by: Harsh Kumar
+Submitted by: Harsh Kumar Mishra
 
 📖 Project Overview
 
